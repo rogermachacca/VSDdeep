@@ -1,7 +1,12 @@
 # VSDdeep
 
-### You must install the following dependencies
 
+### Tested in Python 3.7.6 
+Install using Anaconda from:
+
+https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+
+### You must install the following dependencies
 pip install keras==2.3.1 <br>
 pip install tensorflow==2.0.0 <br>
 pip install h5py==2.10.0 <br>
