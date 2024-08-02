@@ -1,4 +1,5 @@
-# VSDdeep
+# AI-based models for volcano-seismic event detection and classification
+# VSDdeep and VSCdeep
 
 
 ### Tested in Python 3.7.6 
