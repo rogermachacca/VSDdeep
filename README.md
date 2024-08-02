@@ -23,13 +23,8 @@ See either:
 ## A Quick Example
 
 
-    conda create -n eqt python=3.7
+    python Masive_detection_and_classification_PE.py
 
-    conda activate eqt
-
-    conda install -c smousavi05 eqtransformer 
-    
-python Masive_detection_and_classification_PE.py
 
 -------------
 ## Reference
