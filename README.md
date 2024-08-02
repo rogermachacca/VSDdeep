@@ -22,6 +22,13 @@ See either:
 -------------------
 ## A Quick Example
 
+
+    conda create -n eqt python=3.7
+
+    conda activate eqt
+
+    conda install -c smousavi05 eqtransformer 
+    
 python Masive_detection_and_classification_PE.py
 
 -------------
