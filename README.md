@@ -22,22 +22,7 @@ See either:
 -------------------
 ## A Quick Example
 
-```python
-
-    from EQTransformer.core.mseed_predictor import mseed_predictor
-    
-    mseed_predictor(input_dir='downloads_mseeds',   
-                    input_model='ModelsAndSampleData/EqT_model.h5',
-                    stations_json='station_list.json',
-                    output_dir='detection_results',
-                    detection_threshold=0.2,                
-                    P_threshold=0.1,
-                    S_threshold=0.1, 
-                    number_of_plots=10,
-                    plot_mode='time_frequency',
-                    batch_size=500,
-                    overlap=0.3)
-```
+python Masive_detection_and_classification_PE.py
 
 -------------
 ## Reference
