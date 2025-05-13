@@ -18,9 +18,8 @@ VSDdeep is a modified version of the EQTransformer architecture tailored for vol
 
    ```bash
    conda env create -f env_VSDdeep.yml
-then
-
-    conda activate VSDCdeep 
+   
+   conda activate VSDCdeep 
     
 -------------
 
