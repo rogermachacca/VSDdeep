@@ -1,7 +1,7 @@
 # VSDdeep: A deep learning model for Volcano-Seismic event Detection
 
 
-VSDdeep is a modified version of the EQTransformer architecture tailored for volcano-seismic event detection. The decoder components related to P- and S-phase picking in the original model have been removed. This revised model was retrained using the VSED dataset, randomly split into training (80%), validation (10%), and test (10%) datasets.
+VSDdeep is a modified version of the EQTransformer architecture tailored for volcano-seismic event detection. The decoder components related to P- and S-phase picking in the original model have been removed. This modified model was retrained using the VSED dataset, randomly split into training (80%), validation (10%), and test (10%) datasets.
 
 -----------------
 ## Installation
