@@ -23,25 +23,9 @@ VSDdeep is a modified version of the EQTransformer architecture tailored for vol
     
 -------------
 
-# VSDdeep
+## Pre-trained model
+Located in directory: model/VSDdeep_PF.h5
 
-**VSDdeep** is a deep learning model for volcano-seismic event detection, based on a modified version of the [EQTransformer](https://github.com/smousavi05/EQTransformer) architecture. The decoder components related to P- and S-phase picking in the original model have been removed, tailoring the model specifically for detection tasks.
-
-This revised model was retrained using the VSED dataset, which was randomly divided into training (80%), validation (10%), and testing (10%) sets.
-
----
-
-## 📁 Project Structure
-
-- `src/` – Source code for model training, evaluation, and inference  
-- `notebooks/` – Example notebooks for data exploration and usage  
-- `env_VSDdeep.yml` – Conda environment specification  
-- `README.md` – Project documentation  
-- `LICENSE` – License file  
-
----
-
-## ⚙️ Environment Setup
 
 ## Tutorials
 
