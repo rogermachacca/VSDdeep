@@ -7,7 +7,7 @@ Install using Anaconda from:
 -----------------
 ## Installation
 
-**EQTransformer** supports a variety of platforms, including macOS, Windows, and Linux operating systems. Note that you will need to have Python 3.x (3.6 or 3.7) installed. The **EQTransformer** Python package can be installed using the following options:
+**VSDdeep** supports a variety of platforms, including macOS, Windows, and Linux operating systems. Note that you will need to have Python 3.x (3.6 or 3.7) installed. The **VSDdeep** Python package can be installed using the following options:
 
 #### Via Anaconda (recommended):
 change prefix dir in *env_VSDCdeep.yml* file
