@@ -9,7 +9,7 @@ VSDdeep is a modified version of the EQTransformer architecture tailored for vol
 **VSDdeep** supports a variety of platforms, including macOS, Windows, and Linux operating systems. Note that you will need to have Python 3.x (3.6 or 3.7) installed. The **VSDdeep** Python package can be installed using the following options:
 
 #### Via Anaconda (recommended):
-change prefix dir in *env_VSDCdeep.yml* file
+first edit and change "prefix dir" in *env_VSDCdeep.yml* file
 
     conda env create -f env_VSDCdeep.yml
 
