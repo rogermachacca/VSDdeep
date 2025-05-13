@@ -26,11 +26,8 @@ VSDdeep is a modified version of the EQTransformer architecture tailored for vol
 ## Pre-trained model
 Located in directory: model/VSDdeep_PF.h5
 
+-------------
 
-## Tutorials
-
-See either:
--------------------
 ## A Quick Example
 
 
