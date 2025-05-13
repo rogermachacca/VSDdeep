@@ -9,13 +9,44 @@ VSDdeep is a modified version of the EQTransformer architecture tailored for vol
 **VSDdeep** supports a variety of platforms, including macOS, Windows, and Linux operating systems. Note that you will need to have Python 3.x (3.6 or 3.7) installed. The **VSDdeep** Python package can be installed using the following options:
 
 #### Via Anaconda (recommended):
-first edit and change "prefix dir" in *env_VSDCdeep.yml* file
+first edit and change "prefix" dir in *env_VSDCdeep.yml* file
 
     conda env create -f env_VSDCdeep.yml
 
     conda activate VSDCdeep 
     
 -------------
+
+# VSDdeep
+
+**VSDdeep** is a deep learning model for volcano-seismic event detection, based on a modified version of the [EQTransformer](https://github.com/smousavi05/EQTransformer) architecture. The decoder components related to P- and S-phase picking in the original model have been removed, tailoring the model specifically for detection tasks.
+
+This revised model was retrained using the VSED dataset, which was randomly divided into training (80%), validation (10%), and testing (10%) sets.
+
+---
+
+## 📁 Project Structure
+
+- `src/` – Source code for model training, evaluation, and inference  
+- `notebooks/` – Example notebooks for data exploration and usage  
+- `env_VSDdeep.yml` – Conda environment specification  
+- `README.md` – Project documentation  
+- `LICENSE` – License file  
+
+---
+
+## ⚙️ Environment Setup
+
+1. **Edit the Environment File**
+
+   Open `env_VSDdeep.yml` and update the `prefix` field to match the desired path for the conda environment on your machine. Alternatively, you can remove the `prefix` line and use the default location.
+
+2. **Create the Conda Environment**
+
+   ```bash
+   conda env create -f env_VSDdeep.yml
+
+
 ## Tutorials
 
 See either:
