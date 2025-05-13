@@ -1,7 +1,6 @@
 # VSDdeep: A deep learning model for Volcano-Seismic event Detection
 
 
-### Tested in Python 3.7.10 
 Install using Anaconda from:
 
 -----------------
