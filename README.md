@@ -37,17 +37,4 @@ Located in directory: model/VSDdeep_PF.h5
 -------------
 ## Reference
 
-Mousavi, S.M., Ellsworth, W.L., Zhu, W., Chuang, L, Y., and Beroza, G, C. Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking. Nat Commun 11, 3952 (2020). https://doi.org/10.1038/s41467-020-17591-w
-
-BibTeX:
-
-    @article{mousavi2020earthquake,
-        title={Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking},
-        author={Mousavi, S Mostafa and Ellsworth, William L and Zhu, Weiqiang and Chuang, Lindsay Y and Beroza, Gregory C},
-        journal={Nature Communications},
-        volume={11},
-        number={1},
-        pages={1--12},
-        year={2020},
-        publisher={Nature Publishing Group}
-    }
+Machacca, R., Lesage, P., & Tavera, H. (2024). Deep learning and machine learning applied to the detection and classification of volcano-seismic events at Piton de la Fournaise volcano. Manuscript under review.
