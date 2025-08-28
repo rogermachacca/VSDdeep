@@ -31,7 +31,7 @@ Located in directory: model/VSDdeep_PF.h5
 ## A Quick Example
 
 
-    python Masive_detection_and_classification_PE.py
+    python Masive_detection_and_classification_PF.py
 
 
 -------------
