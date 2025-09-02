@@ -38,4 +38,4 @@ Located in directory: model/VSDdeep_PF.h5
 ## Reference
 
 - Machacca Puma, R. (2024, September). Forecasting volcanic eruptions based on massive seismic data processing: Application to Peruvian volcanoes (PhD dissertation). Université Savoie Mont Blanc; Pontificia Universidad Católica del Perú. https://theses.hal.science/tel-04969029
-- Machacca, R., Lesage, P., & Tavera, H. (2024). Deep learning and machine learning applied to the detection and classification of volcano-seismic events at Piton de la Fournaise volcano. Manuscript under review.
+- Machacca, R., Lesage, P., & Tavera, H. (2025). Deep Learning and Machine Learning Applied to the Detection and Classification of Volcano-Seismic Events at Piton de la Fournaise Volcano. Pure and Applied Geophysics. https://doi.org/10.1007/s00024-025-03809-9
